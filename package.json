@@ -27,15 +27,15 @@
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.2",
-    "puppeteer": "^19.5.2",
+    "puppeteer": "^21.2.1",
     "robots-parser": "^2.3.0"
   },
   "peerDependencies": {
     "redis": "3.1.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
     "@types/debug": "^4.1.7",
     "@types/lodash": "^4.14.172",
     "@types/node": "16.9.1",
